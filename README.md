@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @art-23 (Aaron Taing)
+- 👀 I’m interested in IT support, cybersecurity, and network security.
+- 🌱 I’m currently learning cybersecurity at McGill University and working toward CompTIA Security+ certification.
+- 💞️ I’m looking to collaborate on entry-level cybersecurity labs, Linux scripting, and network troubleshooting projects.
+- 📫 How to reach me: bun_aaron@hotmail.com | [LinkedIn](https://www.linkedin.com/) *(add your actual LinkedIn link here!)*
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m trilingual—fluent in English, French, and Khmer—and I used to work in aviation and martial arts before transitioning into tech!
